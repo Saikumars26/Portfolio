@@ -11,7 +11,7 @@
   --accent-2: #0ea5e9;
   --accent-3: #f59e0b;
   --shadow: 0 22px 55px rgba(28, 36, 48, 0.11);
-  --portrait-image: url("../assets/profile-photo.jpg");
+  --portrait-image: url("../assets/profile-photo.jpeg");
   --radius: 8px;
   --max-width: 1160px;
 }
