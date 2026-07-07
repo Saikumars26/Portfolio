@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sai Sheri Portfolio
 
 A clean, modern, single-page portfolio website for Sai Sheri, a Data Analyst and Analytics Engineer. Built with plain HTML, CSS, and JavaScript so it can be deployed easily on GitHub Pages.
@@ -62,3 +63,6 @@ The download button is already wired to that path.
 - Update contact links in `index.html`.
 - Replace project placeholder links with GitHub repositories and dashboard URLs.
 - Add the real resume PDF in `assets/`.
+=======
+# Portfolio
+>>>>>>> 70c9647bc65dedd0ff3811ebf76c0367eef3a882
